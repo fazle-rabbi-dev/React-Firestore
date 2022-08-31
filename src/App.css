@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+header{
+  background: black;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h2{
+  text-align: center;
+  color: red;
+}
+
+ul{
+  margin-left: 40px;
+}
+
+li{
+  list-style-type: circle;
+  color: purple;
+}
+
+li pre{
+  color: black;
+}
+
+li button{
+  height: 20px;
+  padding: 0 7px;
+  margin-left: 4px;
+}
